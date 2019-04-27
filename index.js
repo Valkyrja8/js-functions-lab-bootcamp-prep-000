@@ -5,13 +5,17 @@ function happyHolidays(){
   return ("Happy holidays!")
 }
 
-/*Write a function named happyHolidaysTo with one parameter*/
+/*Write a function named happyHolidaysTo with one parameter. */
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`
 }
 
-/*Write a function named happyHolidayTo with two parameters*/
+/*Write a function named happyHolidayTo with two parameters. */
 function happyHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`
 }
 
+/*Write a function named holidayCountdown with two parameters. */
+function holidayCountDown(days, holiday){
+  return `It's ${days} days until ${holiday}`
+}
