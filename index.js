@@ -11,6 +11,6 @@ function happyHolidaysTo(name){
 }
 
 /*Write a function named happyHolidayTo with two parameters*/
-function happyHolidaytTo(holiday, name){
+function happyHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`
 }
