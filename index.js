@@ -9,10 +9,8 @@ function happyHolidays(){
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}`
 }
-happyHolidaysTo("Sonia")
 
 /*Write a function named happyHolidayTo with two parameters*/
 function happyHolidaytTo(holiday, name){
   return `Happy ${holiday}, ${name}`
 }
-happyHolidayTo("Easter", "Sonia")
