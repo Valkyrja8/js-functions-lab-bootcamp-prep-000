@@ -7,7 +7,7 @@ function happyHolidays(){
 
 /*Write a function named happyHolidaysTo with one parameter*/
 function happyHolidaysTo(name){
-  return `Happy holidays, ${name}`
+  return `Happy holidays, ${name}!`
 }
 
 /*Write a function named happyHolidayTo with two parameters*/
